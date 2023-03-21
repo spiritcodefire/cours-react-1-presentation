@@ -1,5 +1,5 @@
 import React from 'react'
-
+import "./Header.css"
 const Header = () => {
   return (
     <div className="conteneur">
@@ -11,7 +11,7 @@ const Header = () => {
             <strong><span>D</span>igital</strong>
         </div>
         <div className="haut-droit">
-            <a href="#">Télécharger mon c.v.</a>
+            <a href="/">Télécharger mon c.v.</a>
         </div>
         </div>
   </div> 

@@ -1,12 +1,13 @@
 import React from 'react'
 import responsiv from "../../assets/responsive.png"
+import "./SectionPresentation.css"
 
 const SectionPresentation = () => {
   return (
     <section id="slider">
 			<div className="conteneur flex-slider">
 				<figure id="milieu-haut-gauche">
-					<a href="">
+					<a href="/">
 						<img src={responsiv} alt=" qui represente plusieurs écrans pour le responsive" title="Responsive design" />
 					</a>
 					<figcaption>

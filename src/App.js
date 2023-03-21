@@ -13,15 +13,9 @@ function App() {
         <Navbar />
       </header>
 
-    <SectionPresentation />
-
-
-    <Main />
-
-
-
-
-    <Footer />
+      <SectionPresentation />
+      <Main />
+      <Footer />
     </div>
   );
 }
