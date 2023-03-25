@@ -7,7 +7,7 @@ import Main from './components/Main/Main';
 
 function App() {
   return (
-    <div className="">
+    <div className="Modif">
       <header>
         <Header />
         <Navbar />
